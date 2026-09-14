@@ -1,2 +1,1 @@
-# CSCI-272-Fall-2026
-Practice and Classwork for CSCI 272 Course
+C++ practice work for CSCI 272: Object-Oriented Programming in C++
